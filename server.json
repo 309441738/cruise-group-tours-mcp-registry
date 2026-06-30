@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-group-tours",
+  "description": "为团体旅行提供邮轮产品，满足团队的多样化需求。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/ff7d632e-b725-4ce9-89ec-1446a4d68087"
+    }
+  ]
+}
